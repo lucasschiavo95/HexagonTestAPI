@@ -31,3 +31,15 @@ facilitando a manutenção e escalabilidade.
    ```sh
    git clone https://github.com/lucasschiavo95/HexagonTestAPI.git
    cd HexagonTestAPI
+   
+2. Restaure as dependências:
+
+```sh
+dotnet restore
+Execute a API:
+
+```sh
+dotnet run --project src/HexagonTestAPI
+Acesse no navegador:
+
+
