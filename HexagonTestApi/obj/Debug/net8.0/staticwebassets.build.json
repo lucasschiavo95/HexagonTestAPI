@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TCBgUMnZUzlbZXeVzefrcFxDdoLKXlqodm9ofVQxlDU=",
+  "Source": "HexagonTestApi",
+  "BasePath": "_content/HexagonTestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
