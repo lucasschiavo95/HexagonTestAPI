@@ -38,7 +38,7 @@ facilitando a manutenção e escalabilidade.
 dotnet restore
 Execute a API:
 
-```sh
+
 dotnet run --project src/HexagonTestAPI
 Acesse no navegador:
 
